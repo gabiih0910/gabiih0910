@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 😆
 
-<!--
-**gabiih0910/gabiih0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é gabriela teixeira
 
-Here are some ideas to get you started:
+- Estou estudando na alura;
+- Estou me desenvolvendo na linguagem JavaScript 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCÊ ENTRAR EM CONTATO COMIGO 📫
+
+00001094976519SP@ALUNO.EDUCACAO.SP.GOV.BR
+
+@GABRIELATEIXEIRA
+
+![](https://media1.tenor.com/m/G7qLt6offwcAAAAd/shrek-meme.gif)
